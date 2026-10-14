@@ -17,4 +17,4 @@ Links:
 - Portfolio: https://krishaant.github.io/PersonalWebsite/
 - LinkedIn: https://www.linkedin.com/in/krishaant/
 
-You can reach me at [kp243962@gmail.com](url)
+You can reach me at [![Email](https://img.shields.io/badge/Email-kp243962%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kp243962@gmail.com)
